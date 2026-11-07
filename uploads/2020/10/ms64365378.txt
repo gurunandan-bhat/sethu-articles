@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "sethu.in",
+  "Id": "cc5570bc-532d-4884-ba60-6adbea4dd298"
+}
